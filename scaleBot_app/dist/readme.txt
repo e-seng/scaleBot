@@ -1,6 +1,6 @@
                    ~°+ScaleBot+°~
 -----------------------------------------------------
-A small app here to help you practice your technique!
+A small bot here to help you practice your technique!
 Made by Ethan Sengsavang
 Commissioned by Zane Sereda
 
