@@ -30,7 +30,7 @@ practicing.
 ScaleBot is currently not open-source, but will
 be soon! Keep an eye on my GitHub account 
 (www.github.com/e-seng) or on my website 
-(e-seng.github.io) for any updates to Scalebot.
+(e-seng.github.io) for any updates to ScaleBot.
 For now, if there are any issues with the program,
 email at eth.sengsavang@gmail.com and I'll fix it as 
 soon as I can. Thank you for using ScaleBot!
