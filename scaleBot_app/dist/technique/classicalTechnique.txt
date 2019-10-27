@@ -1,0 +1,27 @@
++°~Classical Technique~°+
+
+###
+###If you choose to ever make a custom technique sheet (which you could; I'm not going to 
+###stop you), it is really important that you surround all of the different scales/chords
+###in in each of their respective categories (like below). Also, it is important that the
+###curly brackets ("{" and "}") are places in the same format as seen below. :)
+###
+
+chords:{
+major four note
+minor four note
+dominant 7th
+diminished 7th
+}
+
+scales:{
+major
+minor harmonic
+minor melodic
+major in octaves
+major in 3rds
+major in 6ths
+minor in octaves
+minor in 3rds
+minor in 6ths
+}

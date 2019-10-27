@@ -1,0 +1,46 @@
++°~Jazz Technique~°+
+
+###
+###If you choose to ever make a custom technique sheet (which you could; I'm not going to 
+###stop you), it is really important that you surround all of the different scales/chords
+###in in each of their respective categories (like below). Also, it is important that the
+###curly brackets ("{" and "}") are places in the same format as seen below. :)
+###
+
+chords:{
+major
+minor
+diminished
+augmented
+major 6
+minor 6
+dominant
+minor 7
+major 7
+minor major 7
+half diminished
+full diminished
+augmented 7
+}
+scales:{
+ionian
+dorian
+phrygian
+lydian
+mixolydian
+aeolian
+locrian
+lydian dominant
+altered
+jewish
+half-whole diminished
+whole-half diminished
+major bebop
+minor bebop
+blues
+chromatic
+minor harmonic
+minor melodic
+jazz minor melodic
+double harmonic
+}
