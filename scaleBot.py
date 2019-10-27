@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-ScaleBot, a little bot who ust wants to help you practice
+ScaleBot, a little bot who just wants to help you practice
 
 This program supports all sorts of scales: classical, jazz or custom scales.
 
@@ -9,6 +9,9 @@ Created by request of Zane Sereda
 Created by Ethan Sengs
 Contact me on Twitter! @potatoPetiole
 """
+
+# TODO  - remove the nesting and global variables :)
+#       - ie. clean this code up by practically rewriting it so it's nicer
 
 import tkinter as tk
 from tkinter.filedialog import askopenfilename
